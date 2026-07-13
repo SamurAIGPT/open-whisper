@@ -47,7 +47,7 @@ Ensure you have [Node.js](https://nodejs.org/) (v18+) and `npm` installed.
 Clone the repository and install all node packages:
 ```bash
 # Clone the repository
-$ git clone https://github.com/your-username/open-whisper.git
+$ git clone https://github.com/SamurAIGPT/open-whisper.git
 $ cd open-whisper
 
 # Install dependencies
